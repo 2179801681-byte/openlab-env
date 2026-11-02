@@ -1,0 +1,2 @@
+本题选择 VSCode 和 C 语言。我配置了 GCC 编译器和 C/C++ 扩展，
+编写 Hello World 程序，并分别通过 VSCode 和终端运行。
