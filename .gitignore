@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+target/
+build/
+dist/
+*.exe
+*.o
+*.obj
+.gradle/
+local.properties
+.vscode/
+.DS_Store
